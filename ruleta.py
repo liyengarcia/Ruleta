@@ -1,4 +1,3 @@
-#Liyen Soraya García Sinisterra 2467153-2724
 import random
 
 jugador = {
