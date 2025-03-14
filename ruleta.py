@@ -1,4 +1,4 @@
-import random  # Usaremos esta biblioteca para generar números aleatorios
+import random
 
 jugador = {
     "saldo": 100,  # Monedas iniciales
