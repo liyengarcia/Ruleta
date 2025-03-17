@@ -44,7 +44,7 @@ def mostrar_historial():
     print("-----------------------------\n")
 
 # Inicio del programa
-print("¡Bienvenido al simulador de ruleta súper sencillo!")
+print("¡Bienvenido al simulador de ruleta!")
 
 while True:
     print("\nSaldo actual:", jugador["saldo"])
